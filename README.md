@@ -17,7 +17,7 @@ Currently focused on Laravel, MySQL, and modern frontend tools like Vite.
 - Learn more about testing, deployment, and DevOps
 
 ## 📫 Get in Touch  
-- GitHub: [@yourusername](https://github.com/jpallam)
+- GitHub: [@jpallam](https://github.com/jpallam)
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
